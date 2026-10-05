@@ -8,17 +8,17 @@ class Solution {
             //check for left sorted
             if(nums[low]<=nums[mid]){
                 if(nums[low]<=target && target<=nums[mid]){
-                    high=mid-1;
+                     high=mid-1;  
 
                 }
                 else low=mid+1;
             }
             //check for right sorted
             else{
-                if(nums[mid]<=target && target<=nums[high]){
-                    low=mid+1;
+                if(nums[mid]<=target && target<=nums[high]){ //mid se high ke beech mein
+                    low=mid+1;//yha le aao low ko
                 }
-                else high=mid-1;
+                else high=mid-1;//right part mein bhi ni hai
             }
             
         }
