@@ -14,7 +14,8 @@ class Solution {
 
         noofbouquet += consecutive / k;
 
-        return noofbouquet >= m;
+       if(noofbouquet>=m)return true;
+       return false;
     }
 
     public int minDays(int[] bloomDay, int m, int k) {
