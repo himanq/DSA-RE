@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/himanq/DSA-REVISION/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanq/DSA-REVISION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanq/DSA-REVISION/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/himanq/DSA-REVISION/tree/master/0875-koko-eating-bananas) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/himanq/DSA-REVISION/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/himanq/DSA-REVISION/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanq/DSA-REVISION/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanq/DSA-REVISION/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/himanq/DSA-REVISION/tree/master/0875-koko-eating-bananas) |
 ## Ternary Search
 |  |
 | ------- |
