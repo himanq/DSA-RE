@@ -1,3 +1,4 @@
+//this is the same code of allocate books we just call the function and pass it
 class Solution {
        int countStudents(int[] arr, long pages) {
         int student = 1;
