@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanq/DSA-RE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/himanq/DSA-REVISION/tree/master/0058-length-of-last-word) |
 ## Sorting
 |  |
 | ------- |
