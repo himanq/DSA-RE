@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/himanq/DSA-RE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/himanq/DSA-RE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/himanq/DSA-RE/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/himanq/DSA-REVISION/tree/master/0169-majority-element) |
 | [0410-split-array-largest-sum](https://github.com/himanq/DSA-REVISION/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/himanq/DSA-RE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/himanq/DSA-RE/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanq/DSA-RE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/himanq/DSA-REVISION/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/himanq/DSA-REVISION/tree/master/0169-majority-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/himanq/DSA-RE/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
@@ -110,8 +113,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanq/DSA-REVISION/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/himanq/DSA-REVISION/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
 | [2643-row-with-maximum-ones](https://github.com/himanq/DSA-REVISION/tree/master/2643-row-with-maximum-ones) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/himanq/DSA-REVISION/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/himanq/DSA-REVISION/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
