@@ -99,6 +99,7 @@ A growing collection of solved coding problems, organized by topic to support re
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanq/DSA-RE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanq/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/himanq/DSA-REVISION/tree/master/0058-length-of-last-word) |
 ## Sorting
 |  |
@@ -133,4 +134,24 @@ A growing collection of solved coding problems, organized by topic to support re
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/himanq/DSA-REVISION/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanq/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanq/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanq/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanq/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanq/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
