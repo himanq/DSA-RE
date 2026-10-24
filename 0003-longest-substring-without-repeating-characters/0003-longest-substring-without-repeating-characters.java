@@ -1,25 +1,23 @@
 
-        //Right expands the window; if duplicate comes, Left shrinks the window until there is no duplicate.
-        class Solution {
+class Solution {
     public int lengthOfLongestSubstring(String s) {
+        int maxlen = 0;
 
-        Set<Character> set = new HashSet<>();
+        for (int i = 0; i < s.length(); i++) {
+            int[] hash = new int[256];
 
-        int left = 0;
-        int maxLen = 0;
+            for (int j = i; j < s.length(); j++) {
+                if (hash[s.charAt(j)] == 1) { //phle se hai to break
+                    break;
+                }
 
-        for (int right = 0; right < s.length(); right++) {
+                hash[s.charAt(j)] = 1;// mark if not present
 
-            while (set.contains(s.charAt(right))) {
-                set.remove(s.charAt(left));
-                left++;
+                int len = j - i + 1;
+                maxlen = Math.max(maxlen, len);
             }
-
-            set.add(s.charAt(right));
-
-            maxLen = Math.max(maxLen, right - left + 1);
         }
 
-        return maxLen;
+        return maxlen;
     }
 }
