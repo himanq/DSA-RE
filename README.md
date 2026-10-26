@@ -87,6 +87,7 @@ A growing collection of solved coding problems, organized by topic to support re
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanq/DSA-RE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/himanq/DSA-REVISION/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/himanq/DSA-REVISION/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/himanq/DSA-REVISION/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanq/DSA-REVISION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -102,6 +103,7 @@ A growing collection of solved coding problems, organized by topic to support re
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanq/DSA-RE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/himanq/DSA-REVISION/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/himanq/DSA-REVISION/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/himanq/DSA-REVISION/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanq/DSA-REVISION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
@@ -110,6 +112,7 @@ A growing collection of solved coding problems, organized by topic to support re
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanq/DSA-RE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/himanq/DSA-REVISION/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/himanq/DSA-REVISION/tree/master/0058-length-of-last-word) |
+| [0424-longest-repeating-character-replacement](https://github.com/himanq/DSA-REVISION/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/himanq/DSA-REVISION/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
