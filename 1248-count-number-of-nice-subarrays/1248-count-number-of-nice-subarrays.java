@@ -1,6 +1,6 @@
 class Solution {
 
-    //similar to binary subarray with sum even =0//odd==1 mein convert kr liya (%2)lga ke
+    //similar to binary subarray with sum {even =0//odd==1} mein convert kr liya (%2)lga ke
 
      int sumLessThanEqualToK(int []nums,int goal){
          int left=0;
